@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "clear-cache" : "php typo3cms cache:flush"
+  }
+
+}
+
